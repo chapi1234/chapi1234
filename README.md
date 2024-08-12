@@ -17,7 +17,7 @@
 
 <h1 align="center">Hey
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Daniel
+  I'm Metasebiyaw
 </h1>
 
 <img align="right" alt="Coding" width="320"
@@ -55,9 +55,9 @@
 
 <h3 align="left" style="margin-bottom:10px">🔥   My Stats :</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=da-nn-yy&theme=vue-dark"/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chapi1234&theme=vue-white"/>
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=da-nn-yy&layout=compact&theme=vision-friendly-dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chapi1234&layout=compact&theme=vision-friendly-dark"/>
 
 
 ###
