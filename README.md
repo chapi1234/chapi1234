@@ -31,7 +31,7 @@
 ###
 - Portifolio: https://chapi1234.github.io/responsive-personal-portifolio/
 
-- 🔭 I’m trying ma best to be a Fullstack-developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m a Fullstack-developer / Mernstack and also dedicated and learning Data science (ML)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 📚 I'm currently learning at Adama Science and technology University 
 
@@ -57,9 +57,11 @@
 
 <h3 align="left" style="margin-bottom:10px">🔥   My Stats :</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chapi1234&theme=vue-white"/>
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chapi1234&layout=compact&theme=vision-friendly-dark"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chapi1234&show_icons=true&locale=en&layout=compact" alt="chapi1234" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chapi1234&show_icons=true&locale=en" alt="chapi1234" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chapi1234&" alt="chapi1234" /></p>
 
 
 ###
