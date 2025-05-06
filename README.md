@@ -29,7 +29,7 @@
 <br/>
 
 ###
-- Portifolio: https://chapi1234.github.io/responsive-personal-portifolio/
+- Portifolio: https://chapi1234.github.io/metasebiyaw-asfaw/
 
 - 🔭 I’m a Fullstack-developer / Mernstack and also dedicated and learning Data science (ML)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
