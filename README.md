@@ -29,13 +29,13 @@
 <br/>
 
 ###
-- Portifolio: https://chapi1234.github.io/metasebiyaw-asfaw/
+- Portifolio: https://metasebiyawasfaw.vercel.app/
 
-- 🔭 I’m a Fullstack-developer / Mernstack and also dedicated and learning Data science (ML)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m a Software Engineer | Fullstack-developer | Web and Mobile App Developer and also dedicated and learning AI Automation<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 📚 I'm currently learning at Adama Science and technology University 
+- 📚 I'm currently learning Software Engineering at Adama Science and technology University
 
-- ✅ Intersted in Mernstack,AI, graphics,web design and video editing
+- ✅ Intersted in Automation ,AI, graphics,web design and video editing
 
 - ⚡ In my free time I would like to watch anime.
   
@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,react,express,nextjs,tailwind,css,html,git,python,mongodb,mysql,npm" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,ts,react,express,nextjs,tailwind,css,html,git,mongodb,mysql,npm,pnpm,yarn,babel,docker,figma,github,gitlab,graphql,idea,linux,notion,linkedin,prisma,py,supabase,vercel,vscode,vite" />
   </a>
 </p>
 
