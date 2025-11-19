@@ -31,7 +31,7 @@
 ###
 - Portifolio: https://metasebiyawasfaw.vercel.app/
 
-- 🔭 I’m a Software Engineer | Fullstack-developer | Web and Mobile App Developer and also dedicated and learning AI Automation<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m a Software Engineer | Fullstack-developer | Web and Mobile App Developer | n8n Automation and also dedicated and learning AI Automation<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 📚 I'm currently learning Software Engineering at Adama Science and technology University
 
