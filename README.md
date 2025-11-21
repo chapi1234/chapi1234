@@ -1,4 +1,4 @@
-
+ 
 
 
 ###
@@ -51,7 +51,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,ts,react,express,nextjs,tailwind,css,html,git,mongodb,mysql,npm,pnpm,yarn,babel,docker,figma,github,gitlab,graphql,idea,linux,notion,linkedin,prisma,py,supabase,vercel,vscode,vite" />
   </a>
-</p>
+</p> 
 
 ###
 
