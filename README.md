@@ -31,11 +31,11 @@
 ###
 - Portifolio: https://metasebiyawasfaw.vercel.app/
 
-- 🔭 I’m a Software Engineer | Fullstack-developer | Web and Mobile App Developer | n8n Automation and also dedicated and learning AI Automation<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m a Software Engineer | Fullstack-developer | AI Trainer and Evaluator | Web and Mobile App Developer | n8n Automation and also dedicated and learning AI Automation<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 📚 I'm currently learning Software Engineering at Adama Science and technology University
+- 📚 I'm Graduated from Adama Science and technology University
 
-- ✅ Intersted in Automation ,AI, graphics,web design and video editing
+- ✅ Intersted in Automation ,AI Traiining, graphics,web design and video editing
 
 - ⚡ In my free time I would like to watch anime.
   
